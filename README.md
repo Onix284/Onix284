@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Om Tambat
-- 👀 I’m interested in game programming and game art
-- 🌱 I’m currently learning Unity3d and blender
+- 👀 I’m interested in programming and software development
+- 🌱 I’m currently working on games and mobile apps
 - 📫 You can reach to me: omtambat284@gmail.com
 
 <!---
